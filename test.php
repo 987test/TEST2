@@ -54,5 +54,3 @@ $app->post('/login', function(Silex\Application $app) {
 });
 
 $app->run();
-
-version = 1
